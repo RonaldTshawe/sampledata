@@ -1,82 +1,81 @@
-{
-  {
-    tool:1,
-    status:3
-  },
-   {
-    tool:2,
-    status:3
-  },
-  {
-    tool:3,
-    status:2
-  }, 
-  {
-    tool:4,
-    status:2
-  },
-    {
-    tool:5,
-    status:1
-  },
-  {
-    tool:6,
-    status:3
-  },
-  {
-    tool:7,
-    status:3
-  },
-  {
-    tool:8,
-    status:2
-  },
-  {
-    tool:9,
-    status:3
-  },
-  {
-    tool:10,
-    status:3
-  },
-  {
-    tool:11,
-    status:2
-  },
-  {
-    tool:12,
-    status:1
-  },
-   {
-    tool:13,
-    status:3
-  },
-  {
-    tool:14,
-    status:1
-  },
-  {
-    tool:15,
-    status:3
-  },
-    {
-    tool:16,
-    status:3
-  },
-  {
-    tool:17,
-    status:2
-  },
-   tools: {
-    tool:18,
-    status:2
-  },
-   {
-    tool:19,
-    status:3
-  },
-   {
-    tool:20,
-    status:3
-  }
-}
+[{
+		"tool": "1",
+		"status": "3"
+	},
+	{
+		"tool": "2",
+		"status": "3"
+	},
+	{
+		"tool": "3",
+		"status": "2"
+	},
+	{
+		"tool": "4",
+		"status": "2"
+	},
+	{
+		"tool": "5",
+		"status": "1"
+	},
+	{
+		"tool": "6",
+		"status": "3"
+	},
+	{
+		"tool": "7",
+		"status": "3"
+	},
+	{
+		"tool": "8",
+		"status": "2"
+	},
+	{
+		"tool": "9",
+		"status": "3"
+	},
+	{
+		"tool": "10",
+		"status": "3"
+	},
+	{
+		"tool": "11",
+		"status": "2"
+	},
+	{
+		"tool": "12",
+		"status": "1"
+	},
+	{
+		"tool": "13",
+		"status": "3"
+	},
+	{
+		"tool": "14",
+		"status": "1"
+	},
+	{
+		"tool": "15",
+		"status": "3"
+	},
+	{
+		"tool": "16",
+		"status": "3"
+	},
+	{
+		"tool": "17",
+		"status": "2"
+	},
+	{
+		"tool": "18",
+		"status": "2"
+	},
+	{
+		"tool": "19",
+		"status": "3"
+	},
+	{
+		"tool": "20",
+		"status": "3"
+	}
+]
